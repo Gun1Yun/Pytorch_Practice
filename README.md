@@ -5,4 +5,4 @@ Study Deep Learning with Pytorch in colab
 - Tensors
 - Auto_grad
 - Neural Network
-
+- Classifier
